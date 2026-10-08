@@ -1,6 +1,7 @@
 lab_data/
 runs/*
 !runs/nop_bai/
+*.zip
 TrackEval/
 *.pt
 *.mp4
